@@ -12,6 +12,5 @@ sed -i '/DEVICE=/d' /etc/sysconfig/network-scripts/ifcfg-eth0
 echo -e "DEVICE=$interface" >> /etc/sysconfig/network-scripts/ifcfg-eth0
 sleep 30
 sudo /sbin/ifup $interface
-#sleep 30
-#sudo /sbin/ifdown ens5
+sudo /sbin/ifdown ens5
 
