@@ -1,0 +1,9 @@
+.drafty.co.uk
+.epdq.co.uk
+.payandshop.com
+.voice-pay.com
+.optimalpayments.com
+.datadoghq.com
+.centos.org
+.docker.io
+
